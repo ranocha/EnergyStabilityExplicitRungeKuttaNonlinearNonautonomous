@@ -1,7 +1,7 @@
 # Energy Stability of Explicit Runge-Kutta Methods for Non-autonomous or Nonlinear Problems
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3066828.svg)](https://doi.org/10.5281/zenodo.3066828) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3464243.svg)](https://doi.org/10.5281/zenodo.3464243)
 
 <!-- This repository contains some code used in the article
 ```
