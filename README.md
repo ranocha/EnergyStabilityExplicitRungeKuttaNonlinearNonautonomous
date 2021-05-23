@@ -5,12 +5,18 @@
 
 This repository contains some code used in the article
 ```
-@online{ranocha2019energy,
-  title={Energy Stability of Explicit {Runge--Kutta} Methods for Non-autonomous
+@article{ranocha2020energy,
+  title={Energy Stability of Explicit {R}unge-{K}utta Methods for Nonautonomous
          or Nonlinear Problems},
   author={Ranocha, Hendrik and Ketcheson, David I},
-  year={2019},
-  month={09},
+  journal={SIAM Journal on Numerical Analysis},
+  year={2020},
+  month={11},
+  volume={58},
+  number={6},
+  pages={3382--3405},
+  publisher={Society for Industrial and Applied Mathematics},
+  doi={10.1137/19M1290346},
   eprint={1909.13215},
   eprinttype={arxiv},
   eprintclass={math.NA}
